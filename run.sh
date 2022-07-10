@@ -1,1 +1,1 @@
-echo "run me"
+echo "run me first time"
