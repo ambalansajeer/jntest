@@ -1,1 +1,1 @@
-echo "sample 1 " 
+echo "sample 2 " 
